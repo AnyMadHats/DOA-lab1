@@ -10,9 +10,10 @@
 class Algo {
 public:
 
-    bool DFS(adjacency_list_t list);
-    bool BFS(adjacency_list_t list);
+    int DFS(adjacency_list_t list, int start);
+    int BFS(adjacency_list_t list, int start);
 
+    static int CheckifVisited(std::vector<bool>& vector);
 
 
 };
