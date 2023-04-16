@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\x64\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mad-Desktop\Desktop\Doa\DOA-lab1
+CMAKE_SOURCE_DIR = C:\Users\Mad-Desktop\Desktop\Doa\lab1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mad-Desktop\Desktop\Doa\DOA-lab1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mad-Desktop\Desktop\Doa\lab1\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mad-Desktop\Desktop\Doa\DOA-lab1\cmake-build-debug\CMakeFiles C:\Users\Mad-Desktop\Desktop\Doa\DOA-lab1\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mad-Desktop\Desktop\Doa\lab1\cmake-build-debug\CMakeFiles C:\Users\Mad-Desktop\Desktop\Doa\lab1\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mad-Desktop\Desktop\Doa\DOA-lab1\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mad-Desktop\Desktop\Doa\lab1\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -152,6 +152,30 @@ Algo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Algo.cpp.s
 .PHONY : Algo.cpp.s
 
+Printer.obj: Printer.cpp.obj
+.PHONY : Printer.obj
+
+# target to build an object file
+Printer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Printer.cpp.obj
+.PHONY : Printer.cpp.obj
+
+Printer.i: Printer.cpp.i
+.PHONY : Printer.i
+
+# target to preprocess a source file
+Printer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Printer.cpp.i
+.PHONY : Printer.cpp.i
+
+Printer.s: Printer.cpp.s
+.PHONY : Printer.s
+
+# target to generate assembly for a file
+Printer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Printer.cpp.s
+.PHONY : Printer.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -212,6 +236,9 @@ help:
 	@echo ... Algo.obj
 	@echo ... Algo.i
 	@echo ... Algo.s
+	@echo ... Printer.obj
+	@echo ... Printer.i
+	@echo ... Printer.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

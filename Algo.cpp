@@ -9,28 +9,14 @@
 
 int Algo::CheckifVisited(std::vector<bool>& vector) {
     for(bool e : vector){
-        if(!e){
-            return 1;
-        }
-    }
-    return -1;
-}
-
-/*
-int Algo::CheckifVisited(std::vector<bool> vector) {
-    for(auto e : vector){
-        if(!e){
+        if(!vector.at(e)){
             return e;
         }
     }
     return -1;
 }
-*/
 
-
-
-
-int BFS(adjacency_list_t list, int start) {
+int Algo::BFS(adjacency_list_t list, int start) {
     std::stack<int> stack;
     std::vector<bool> visited(list.first.size(), false);
     visited[start] = true;
@@ -41,7 +27,7 @@ int BFS(adjacency_list_t list, int start) {
         stack.pop();
 
         for (auto i = list.second.begin(); i != list.second.end() ; i++ ) {
-            if(i->n1 == start){
+            if(i[0].n1 == start){
                 if(!visited[i[0].n2]){
                     visited[i[0].n2] = true;
                     stack.push(i[0].n2);
@@ -52,4 +38,6 @@ int BFS(adjacency_list_t list, int start) {
         }
     }
     return Algo::CheckifVisited(visited) ;
+
 }
+
