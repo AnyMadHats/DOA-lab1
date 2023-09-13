@@ -6,6 +6,8 @@
 #define UNTITLED1_TESTFORGIT_H
 
 
+#include <iostream>
+
 class TestForGit {
 
 };

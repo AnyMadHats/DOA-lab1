@@ -3,3 +3,8 @@
 //
 
 #include "TestForGit.h"
+#include <iostream>
+
+class potatis{
+    int home;
+};
