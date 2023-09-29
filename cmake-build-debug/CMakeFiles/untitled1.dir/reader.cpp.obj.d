@@ -1,6 +1,6 @@
 CMakeFiles/untitled1.dir/reader.cpp.obj: \
- C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\reader.cpp \
- C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\reader.h \
+ C:\Users\madhat.shahda\CLionProjects\DOA-lab1\reader.cpp \
+ C:\Users\madhat.shahda\CLionProjects\DOA-lab1\reader.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

@@ -1,5 +1,5 @@
 CMakeFiles/untitled1.dir/Algo.cpp.obj: \
- C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Algo.cpp \
+ C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Algo.cpp \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stack \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -141,11 +141,15 @@ CMakeFiles/untitled1.dir/Algo.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
- C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Algo.h \
- C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\reader.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+ C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+ C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Algo.h \
+ C:\Users\madhat.shahda\CLionProjects\DOA-lab1\reader.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
- C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \

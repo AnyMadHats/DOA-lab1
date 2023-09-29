@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled1.dir/Algo.cpp.obj"
   "CMakeFiles/untitled1.dir/Algo.cpp.obj.d"
+  "CMakeFiles/untitled1.dir/Dijkstra.cpp.obj"
+  "CMakeFiles/untitled1.dir/Dijkstra.cpp.obj.d"
+  "CMakeFiles/untitled1.dir/Matrix.cpp.obj"
+  "CMakeFiles/untitled1.dir/Matrix.cpp.obj.d"
   "CMakeFiles/untitled1.dir/Printer.cpp.obj"
   "CMakeFiles/untitled1.dir/Printer.cpp.obj.d"
   "CMakeFiles/untitled1.dir/TestForGit.cpp.obj"

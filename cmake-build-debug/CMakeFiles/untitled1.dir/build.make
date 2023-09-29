@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1
+CMAKE_SOURCE_DIR = C:\Users\madhat.shahda\CLionProjects\DOA-lab1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled1.dir/depend.make
@@ -69,74 +69,102 @@ include CMakeFiles/untitled1.dir/progress.make
 include CMakeFiles/untitled1.dir/flags.make
 
 CMakeFiles/untitled1.dir/main.cpp.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/main.cpp.obj: C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/main.cpp
+CMakeFiles/untitled1.dir/main.cpp.obj: C:/Users/madhat.shahda/CLionProjects/DOA-lab1/main.cpp
 CMakeFiles/untitled1.dir/main.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/main.cpp.obj -MF CMakeFiles\untitled1.dir\main.cpp.obj.d -o CMakeFiles\untitled1.dir\main.cpp.obj -c C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/main.cpp.obj -MF CMakeFiles\untitled1.dir\main.cpp.obj.d -o CMakeFiles\untitled1.dir\main.cpp.obj -c C:\Users\madhat.shahda\CLionProjects\DOA-lab1\main.cpp
 
 CMakeFiles/untitled1.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\main.cpp > CMakeFiles\untitled1.dir\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\CLionProjects\DOA-lab1\main.cpp > CMakeFiles\untitled1.dir\main.cpp.i
 
 CMakeFiles/untitled1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\main.cpp -o CMakeFiles\untitled1.dir\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\CLionProjects\DOA-lab1\main.cpp -o CMakeFiles\untitled1.dir\main.cpp.s
 
 CMakeFiles/untitled1.dir/reader.cpp.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/reader.cpp.obj: C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/reader.cpp
+CMakeFiles/untitled1.dir/reader.cpp.obj: C:/Users/madhat.shahda/CLionProjects/DOA-lab1/reader.cpp
 CMakeFiles/untitled1.dir/reader.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/reader.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/reader.cpp.obj -MF CMakeFiles\untitled1.dir\reader.cpp.obj.d -o CMakeFiles\untitled1.dir\reader.cpp.obj -c C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\reader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/reader.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/reader.cpp.obj -MF CMakeFiles\untitled1.dir\reader.cpp.obj.d -o CMakeFiles\untitled1.dir\reader.cpp.obj -c C:\Users\madhat.shahda\CLionProjects\DOA-lab1\reader.cpp
 
 CMakeFiles/untitled1.dir/reader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/reader.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\reader.cpp > CMakeFiles\untitled1.dir\reader.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\CLionProjects\DOA-lab1\reader.cpp > CMakeFiles\untitled1.dir\reader.cpp.i
 
 CMakeFiles/untitled1.dir/reader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/reader.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\reader.cpp -o CMakeFiles\untitled1.dir\reader.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\CLionProjects\DOA-lab1\reader.cpp -o CMakeFiles\untitled1.dir\reader.cpp.s
 
 CMakeFiles/untitled1.dir/Algo.cpp.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/Algo.cpp.obj: C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/Algo.cpp
+CMakeFiles/untitled1.dir/Algo.cpp.obj: C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Algo.cpp
 CMakeFiles/untitled1.dir/Algo.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled1.dir/Algo.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/Algo.cpp.obj -MF CMakeFiles\untitled1.dir\Algo.cpp.obj.d -o CMakeFiles\untitled1.dir\Algo.cpp.obj -c C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Algo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled1.dir/Algo.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/Algo.cpp.obj -MF CMakeFiles\untitled1.dir\Algo.cpp.obj.d -o CMakeFiles\untitled1.dir\Algo.cpp.obj -c C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Algo.cpp
 
 CMakeFiles/untitled1.dir/Algo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Algo.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Algo.cpp > CMakeFiles\untitled1.dir\Algo.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Algo.cpp > CMakeFiles\untitled1.dir\Algo.cpp.i
 
 CMakeFiles/untitled1.dir/Algo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Algo.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Algo.cpp -o CMakeFiles\untitled1.dir\Algo.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Algo.cpp -o CMakeFiles\untitled1.dir\Algo.cpp.s
 
 CMakeFiles/untitled1.dir/Printer.cpp.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/Printer.cpp.obj: C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/Printer.cpp
+CMakeFiles/untitled1.dir/Printer.cpp.obj: C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Printer.cpp
 CMakeFiles/untitled1.dir/Printer.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled1.dir/Printer.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/Printer.cpp.obj -MF CMakeFiles\untitled1.dir\Printer.cpp.obj.d -o CMakeFiles\untitled1.dir\Printer.cpp.obj -c C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Printer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled1.dir/Printer.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/Printer.cpp.obj -MF CMakeFiles\untitled1.dir\Printer.cpp.obj.d -o CMakeFiles\untitled1.dir\Printer.cpp.obj -c C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Printer.cpp
 
 CMakeFiles/untitled1.dir/Printer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Printer.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Printer.cpp > CMakeFiles\untitled1.dir\Printer.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Printer.cpp > CMakeFiles\untitled1.dir\Printer.cpp.i
 
 CMakeFiles/untitled1.dir/Printer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Printer.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\Printer.cpp -o CMakeFiles\untitled1.dir\Printer.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Printer.cpp -o CMakeFiles\untitled1.dir\Printer.cpp.s
 
 CMakeFiles/untitled1.dir/TestForGit.cpp.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/TestForGit.cpp.obj: C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/TestForGit.cpp
+CMakeFiles/untitled1.dir/TestForGit.cpp.obj: C:/Users/madhat.shahda/CLionProjects/DOA-lab1/TestForGit.cpp
 CMakeFiles/untitled1.dir/TestForGit.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled1.dir/TestForGit.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/TestForGit.cpp.obj -MF CMakeFiles\untitled1.dir\TestForGit.cpp.obj.d -o CMakeFiles\untitled1.dir\TestForGit.cpp.obj -c C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\TestForGit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled1.dir/TestForGit.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/TestForGit.cpp.obj -MF CMakeFiles\untitled1.dir\TestForGit.cpp.obj.d -o CMakeFiles\untitled1.dir\TestForGit.cpp.obj -c C:\Users\madhat.shahda\CLionProjects\DOA-lab1\TestForGit.cpp
 
 CMakeFiles/untitled1.dir/TestForGit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/TestForGit.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\TestForGit.cpp > CMakeFiles\untitled1.dir\TestForGit.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\CLionProjects\DOA-lab1\TestForGit.cpp > CMakeFiles\untitled1.dir\TestForGit.cpp.i
 
 CMakeFiles/untitled1.dir/TestForGit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/TestForGit.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\TestForGit.cpp -o CMakeFiles\untitled1.dir\TestForGit.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\CLionProjects\DOA-lab1\TestForGit.cpp -o CMakeFiles\untitled1.dir\TestForGit.cpp.s
+
+CMakeFiles/untitled1.dir/Dijkstra.cpp.obj: CMakeFiles/untitled1.dir/flags.make
+CMakeFiles/untitled1.dir/Dijkstra.cpp.obj: C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Dijkstra.cpp
+CMakeFiles/untitled1.dir/Dijkstra.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled1.dir/Dijkstra.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/Dijkstra.cpp.obj -MF CMakeFiles\untitled1.dir\Dijkstra.cpp.obj.d -o CMakeFiles\untitled1.dir\Dijkstra.cpp.obj -c C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Dijkstra.cpp
+
+CMakeFiles/untitled1.dir/Dijkstra.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Dijkstra.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Dijkstra.cpp > CMakeFiles\untitled1.dir\Dijkstra.cpp.i
+
+CMakeFiles/untitled1.dir/Dijkstra.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Dijkstra.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Dijkstra.cpp -o CMakeFiles\untitled1.dir\Dijkstra.cpp.s
+
+CMakeFiles/untitled1.dir/Matrix.cpp.obj: CMakeFiles/untitled1.dir/flags.make
+CMakeFiles/untitled1.dir/Matrix.cpp.obj: C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Matrix.cpp
+CMakeFiles/untitled1.dir/Matrix.cpp.obj: CMakeFiles/untitled1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled1.dir/Matrix.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled1.dir/Matrix.cpp.obj -MF CMakeFiles\untitled1.dir\Matrix.cpp.obj.d -o CMakeFiles\untitled1.dir\Matrix.cpp.obj -c C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Matrix.cpp
+
+CMakeFiles/untitled1.dir/Matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Matrix.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Matrix.cpp > CMakeFiles\untitled1.dir\Matrix.cpp.i
+
+CMakeFiles/untitled1.dir/Matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Matrix.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Matrix.cpp -o CMakeFiles\untitled1.dir\Matrix.cpp.s
 
 # Object files for target untitled1
 untitled1_OBJECTS = \
@@ -144,7 +172,9 @@ untitled1_OBJECTS = \
 "CMakeFiles/untitled1.dir/reader.cpp.obj" \
 "CMakeFiles/untitled1.dir/Algo.cpp.obj" \
 "CMakeFiles/untitled1.dir/Printer.cpp.obj" \
-"CMakeFiles/untitled1.dir/TestForGit.cpp.obj"
+"CMakeFiles/untitled1.dir/TestForGit.cpp.obj" \
+"CMakeFiles/untitled1.dir/Dijkstra.cpp.obj" \
+"CMakeFiles/untitled1.dir/Matrix.cpp.obj"
 
 # External object files for target untitled1
 untitled1_EXTERNAL_OBJECTS =
@@ -154,11 +184,13 @@ untitled1.exe: CMakeFiles/untitled1.dir/reader.cpp.obj
 untitled1.exe: CMakeFiles/untitled1.dir/Algo.cpp.obj
 untitled1.exe: CMakeFiles/untitled1.dir/Printer.cpp.obj
 untitled1.exe: CMakeFiles/untitled1.dir/TestForGit.cpp.obj
+untitled1.exe: CMakeFiles/untitled1.dir/Dijkstra.cpp.obj
+untitled1.exe: CMakeFiles/untitled1.dir/Matrix.cpp.obj
 untitled1.exe: CMakeFiles/untitled1.dir/build.make
 untitled1.exe: CMakeFiles/untitled1.dir/linkLibs.rsp
 untitled1.exe: CMakeFiles/untitled1.dir/objects1.rsp
 untitled1.exe: CMakeFiles/untitled1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable untitled1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable untitled1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -170,6 +202,6 @@ CMakeFiles/untitled1.dir/clean:
 .PHONY : CMakeFiles/untitled1.dir/clean
 
 CMakeFiles/untitled1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1 C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1 C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles\untitled1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\madhat.shahda\CLionProjects\DOA-lab1 C:\Users\madhat.shahda\CLionProjects\DOA-lab1 C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles\untitled1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled1.dir/depend
 

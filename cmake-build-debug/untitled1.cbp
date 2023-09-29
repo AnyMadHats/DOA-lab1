@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1">
-				<Option output="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug"/>
+				<Option output="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1/fast">
-				<Option output="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug"/>
+				<Option output="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,61 +55,73 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/madhat.shahda/CLionProjects/DOA-lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/Algo.cpp">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Algo.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/Algo.h">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Algo.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/Printer.cpp">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Dijkstra.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/Printer.h">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Dijkstra.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/TestForGit.cpp">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Matrix.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/TestForGit.h">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Matrix.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/main.cpp">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Printer.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/reader.cpp">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/Printer.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/reader.h">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/TestForGit.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/madhat.shahda/Desktop/DOA/DOA-lab1/CMakeLists.txt">
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/TestForGit.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/main.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/reader.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/reader.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/Users/madhat.shahda/CLionProjects/DOA-lab1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

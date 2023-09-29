@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1
+CMAKE_SOURCE_DIR = C:\Users\madhat.shahda\CLionProjects\DOA-lab1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\madhat.shahda\Desktop\DOA\DOA-lab1\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\madhat.shahda\CLionProjects\DOA-lab1\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -151,6 +151,54 @@ Algo.s: Algo.cpp.s
 Algo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Algo.cpp.s
 .PHONY : Algo.cpp.s
+
+Dijkstra.obj: Dijkstra.cpp.obj
+.PHONY : Dijkstra.obj
+
+# target to build an object file
+Dijkstra.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Dijkstra.cpp.obj
+.PHONY : Dijkstra.cpp.obj
+
+Dijkstra.i: Dijkstra.cpp.i
+.PHONY : Dijkstra.i
+
+# target to preprocess a source file
+Dijkstra.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Dijkstra.cpp.i
+.PHONY : Dijkstra.cpp.i
+
+Dijkstra.s: Dijkstra.cpp.s
+.PHONY : Dijkstra.s
+
+# target to generate assembly for a file
+Dijkstra.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Dijkstra.cpp.s
+.PHONY : Dijkstra.cpp.s
+
+Matrix.obj: Matrix.cpp.obj
+.PHONY : Matrix.obj
+
+# target to build an object file
+Matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Matrix.cpp.obj
+.PHONY : Matrix.cpp.obj
+
+Matrix.i: Matrix.cpp.i
+.PHONY : Matrix.i
+
+# target to preprocess a source file
+Matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Matrix.cpp.i
+.PHONY : Matrix.cpp.i
+
+Matrix.s: Matrix.cpp.s
+.PHONY : Matrix.s
+
+# target to generate assembly for a file
+Matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/Matrix.cpp.s
+.PHONY : Matrix.cpp.s
 
 Printer.obj: Printer.cpp.obj
 .PHONY : Printer.obj
@@ -260,6 +308,12 @@ help:
 	@echo ... Algo.obj
 	@echo ... Algo.i
 	@echo ... Algo.s
+	@echo ... Dijkstra.obj
+	@echo ... Dijkstra.i
+	@echo ... Dijkstra.s
+	@echo ... Matrix.obj
+	@echo ... Matrix.i
+	@echo ... Matrix.s
 	@echo ... Printer.obj
 	@echo ... Printer.i
 	@echo ... Printer.s

@@ -5,4 +5,8 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(untitled1 main.cpp reader.h reader.cpp Algo.cpp Algo.h Printer.cpp Printer.h
         TestForGit.cpp
-        TestForGit.h)
+        TestForGit.h
+        Dijkstra.cpp
+        Dijkstra.h
+        Matrix.cpp
+        Matrix.h)

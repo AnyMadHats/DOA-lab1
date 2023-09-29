@@ -8,12 +8,7 @@
 #include "vector"
 
 
-class Printer {
-    void PrintVisited(std::vector<int> vector){
-
-    }
-
-};
-
+void printTheWay(std::vector<double> distance, std::vector<int> parent, int src);
+void printPath(std::vector<int> vector1, int i);
 
 #endif //UNTITLED1_PRINTER_H
