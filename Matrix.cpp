@@ -3,6 +3,7 @@
 //
 
 #include "Matrix.h"
+#include "Printer.h"
 
 std::vector<std::vector<double>> createMatrix(adjacency_list_t input) {
     std::vector<std::vector<double>> matrix(input.first.size(),std::vector<double>(input.first.size(),0));
@@ -13,5 +14,6 @@ std::vector<std::vector<double>> createMatrix(adjacency_list_t input) {
             }
         }
     }
+
     return matrix;
 }

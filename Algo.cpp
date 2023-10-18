@@ -24,11 +24,9 @@ int Algo::DFS(adjacency_list_t list, int start) {
     visited[start] = true;
     stack.push(start);
 
-
     while(!stack.empty()){
         start = stack.top();
         stack.pop();
-
 
         for (auto i = list.second.begin(); i != list.second.end() ; i++ ) {
             if(i->n1 == start ){
@@ -52,7 +50,6 @@ int Algo::BFS(adjacency_list_t list, int start) {
     visited[start] = true;
     queue.push_back(start);
 
-    std::list<int>::iterator it;
 
     while (!queue.empty()){
         start = queue.front();

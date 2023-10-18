@@ -150,4 +150,5 @@ CMakeFiles/untitled1.dir/main.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2023.2.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
  C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Algo.h \
  C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Matrix.h \
- C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Dijkstra.h
+ C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Dijkstra.h \
+ C:\Users\madhat.shahda\CLionProjects\DOA-lab1\Printer.h
